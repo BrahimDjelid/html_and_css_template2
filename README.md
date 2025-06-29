@@ -23,7 +23,6 @@ https://brahimdjelid.github.io/html_and_css_template2/
 ## Design Attribution
 - **Original PSD Design**: [Kasper Template](https://www.graphberry.com/item/kasper-one-page-psd-template) from Graphberry
 - **Designer**: Graphberry Team
-- **PSD License**: [Graphberry Free License](https://www.graphberry.com/licenses) (Free for personal/commercial use with attribution)
 
 ## Project License
 - My HTML/CSS implementation is free to use
